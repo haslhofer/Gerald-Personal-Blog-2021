@@ -4,10 +4,15 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+My name is **Gerald Haslhofer**. In my professional life I currently lead a team of more than 300 engineers across Redmond, London, Beijing, Suzhou and Hyderabad working on Cross-Device and Mobile Experiences. Our YourPhone app / Link-to-Windows recently was #1 in the Google Play Store! Our team develops SwiftKey, Microsoft Launcher / Surface Duo Shell, and the Microsoft ToDo apps. I enjoy running large distributed engineering teams across the full stack of client, services, and machine learning. 
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+![I aspire to be an innovator at work. My goal is to create novel, meaningful products and forums as a risk-taking innovator and teacher. I try to be a role model at work of championing change, integrity, hard work and results. So that my example helps others be the best they can be.](/media/image-2.jpg)   
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Before Microsoft I ran my own start-up, and worked as a strategy consultant for Bain & Company. I hold both a doctorate from my alma mater in Austria, and an MBA.
+
+>The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+
+As a hobby, I love coding. I live in Bellevue, WA with my amazing wife and three children.
+
+*Thank You for reading!*
