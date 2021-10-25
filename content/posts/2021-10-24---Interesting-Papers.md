@@ -42,9 +42,18 @@ Training:
 - Target sequence pre-pended with start-of-sentence token, converted into embedding, fed to decoder
 - Generate encoded representation (together with Encoder representation)
 - Output layer converts it into output sequence
-- Back propagation -> generate gradients 
+- Back propagation -> generate gradients. 
 
 ### What is a feed-forward layer
+Feedforward neural networks are composed of (a) Input layer (b) hidden layer (c) output layer and (d) neuron weights ([source](https://builtin.com/data-science/feedforward-neural-network-intro)). 
+
+Steps: 
+  - y = x * weights + bias
+  - take sum of all y's
+  - go through activation function (e.g. RELU, sigmoid)
+  - calculate loss with loss function
+  - back propagate the error by updating the weights for each layer
+
 
 ### What is a residual skip conneciton
 
