@@ -56,7 +56,11 @@ Steps:
 
 
 ### What is a residual skip conneciton
-
+[Explanation source](https://theaisummer.com/skip-connections/)
+Problem to solve is vanishing gradient problem, where updates to the weight are minimal (because of gradient being "low). 
 ### Difference between embedding and encoding
 
+
 ### How does back propagation work
+[Explanation source](https://theaisummer.com/skip-connections/)
+Backpropagation is about understanding how changing the weights (parameters) in a network changes the loss function by computing the partial derivatives.
