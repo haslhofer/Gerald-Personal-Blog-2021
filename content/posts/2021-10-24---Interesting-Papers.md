@@ -56,11 +56,14 @@ Steps:
 
 
 ### What is a residual skip conneciton
-[Explanation source](https://theaisummer.com/skip-connections/)
+[Explanation source](https://theaisummer.com/skip-connections/):
 Problem to solve is vanishing gradient problem, where updates to the weight are minimal (because of gradient being "low). 
+Skip connections in deep architectures skip some layer in the neural network and feeds the output of one layer as the input to the next layers (instead of only the next one).
+
 ### Difference between embedding and encoding
 
 
 ### How does back propagation work
-[Explanation source](https://theaisummer.com/skip-connections/)
+[Explanation source](https://theaisummer.com/skip-connections/):
 Backpropagation is about understanding how changing the weights (parameters) in a network changes the loss function by computing the partial derivatives.
+For every layer we go back during back propagation, the gradient gets smaller.
