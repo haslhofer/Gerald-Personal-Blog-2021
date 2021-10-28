@@ -10,7 +10,11 @@ tags:
 description: "We have moved beyond simply shipping monolithic applications. Here's a short perspective on how mini-apps can be 'composed'"
 socialImage: "/media/image-2.jpg"
 ---
-# A basic taxonomy 
+
+
+# A basic taxonomy of application composition
+
+We have moved beyond simply shipping monolithic applications. It's useful to have a basic taxonomy of how "packages of features" might be composed together.
 
     1 - Intermediation
 The most invasive strategy is to intermediate other app experiences. The best example is the Google Assistant “sitting on top” of other app experiences and deep linking into these experiences when needed. 
