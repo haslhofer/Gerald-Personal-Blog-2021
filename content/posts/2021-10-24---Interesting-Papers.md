@@ -7,7 +7,7 @@ slug: "interesting-papers"
 category: "Notes"
 tags:
   - "Science"
-description: "Summaries of interesting papers I read"
+description: "Summaries of interesting papers I read, including all the things I didn't understand or couldn't really explain. It starts with 'Rethinking attention with Performers', which is already a major evolution of Transformer based architectures. "
 socialImage: "/media/image-2.jpg"
 ---
 # Rethinking Attention with Performers
