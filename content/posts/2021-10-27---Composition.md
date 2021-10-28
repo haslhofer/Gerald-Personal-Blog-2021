@@ -6,7 +6,7 @@ draft: false
 slug: "thoughts-on-composition"
 category: "Explorations"
 tags:
-  - "Science"
+  - "Explorations"
 description: "We have moved beyond simply shipping monolithic applications. Here's a short perspective on how mini-apps can be 'composed'"
 socialImage: "/media/image-2.jpg"
 ---
