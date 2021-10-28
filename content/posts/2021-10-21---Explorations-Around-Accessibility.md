@@ -7,7 +7,7 @@ slug: "accessibility"
 category: "Investigation"
 tags:
   - "Accessibility"
-  - "Invetigation"
+  - "Investigation"
 description: "Apart from reading the screen pixels, we can also reason over accessibility trees"
 socialImage: "/media/image-2.jpg"
 ---
