@@ -13,3 +13,10 @@ socialImage: "/media/image-2.jpg"
 
 Simple effects
 [Dissolve randomly (explosion)](https://www.youtube.com/watch?v=85cUSrjVukY&t=370s)
+
+
+# Look at this Video:
+
+`video: https://www.youtube.com/embed/2Xc9gXyf2G4`
+`youtube: https://www.youtube.com/watch?v=2Xc9gXyf2G4`
+`youtube: 2Xc9gXyf2G4`
