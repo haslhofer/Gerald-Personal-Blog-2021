@@ -31,12 +31,11 @@ module.exports = {
               urlOverrides: [
                 {
                   id: 'youtube',
-                  embedURL: videoId =>
-                    `https://www.youtube-nocookie.com/embed/${videoId}`,
+                  embedURL: videoId =>`https://www.youtube-nocookie.com/embed/${videoId}`,
                 },
               ],
               containerClass: 'embedVideo-container',
-              iframeId: false, 
+              iframeId: false,
             },
           },
         ],
