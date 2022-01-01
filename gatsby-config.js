@@ -16,7 +16,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "gatsby-transformer-remark",
+      resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
           {
@@ -24,18 +24,18 @@ module.exports = {
             options: {
               width: 800,
               ratio: 1.77,
-              height: 400, 
-              related: false, 
-              noIframeBorder: true, 
-              loadingStrategy: 'lazy', 
+              height: 400,
+              related: false,
+              noIframeBorder: true,
+              loadingStrategy: 'lazy',
               urlOverrides: [
                 {
                   id: 'youtube',
                   embedURL: videoId =>
                     `https://www.youtube-nocookie.com/embed/${videoId}`,
                 },
-              ], 
-              containerClass: 'embedVideo-container', 
+              ],
+              containerClass: 'embedVideo-container',
               iframeId: false, 
             },
           },
