@@ -15,6 +15,6 @@ Simple effects
 [Dissolve randomly (explosion)](https://www.youtube.com/watch?v=85cUSrjVukY&t=370s)
 
 
-# Look at this Video:
+# 5 second video exploration for Team logo
 
 `video: https://youtu.be/BBvGJuIFyfc`
