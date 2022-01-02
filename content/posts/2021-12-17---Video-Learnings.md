@@ -33,6 +33,12 @@ Here is the final video rendering (YouTube):
 
 `video: https://youtu.be/BBvGJuIFyfc`
 
+And the video replayed in four loops
+
+
+`video: https://youtu.be/Ld-rTo_Xc4s`
+
+
 
 ## Training lessons on YouTube
 Simple effects
