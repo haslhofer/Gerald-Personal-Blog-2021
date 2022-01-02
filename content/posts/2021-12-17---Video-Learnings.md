@@ -2,7 +2,7 @@
 title: Video Learnings
 date: "2021-12-17T23:46:37.121Z"
 template: "post"
-draft: true
+draft: false
 slug: "Video learnings"
 category: "Reading"
 tags:
