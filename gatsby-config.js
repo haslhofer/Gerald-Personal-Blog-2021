@@ -16,32 +16,6 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: 'gatsby-transformer-remark',
-      options: {
-        plugins: [
-          {
-            resolve: 'gatsby-remark-embed-video',
-            options: {
-              width: 800,
-              ratio: 1.77,
-              height: 400,
-              related: false,
-              noIframeBorder: true,
-              loadingStrategy: 'lazy',
-              urlOverrides: [
-                {
-                  id: 'youtube',
-                  embedURL: (videoId) => `https://www.youtube-nocookie.com/embed/${videoId}`,
-                },
-              ],
-              containerClass: 'embedVideo-container',
-              iframeId: false,
-            },
-          },
-        ],
-      },
-    },
-    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/static`,
@@ -128,6 +102,25 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+          {
+            resolve: 'gatsby-remark-embed-video',
+            options: {
+              width: 800,
+              ratio: 1.77,
+              height: 400,
+              related: false,
+              noIframeBorder: true,
+              loadingStrategy: 'lazy',
+              urlOverrides: [
+                {
+                  id: 'youtube',
+                  embedURL: (videoId) => `https://www.youtube-nocookie.com/embed/${videoId}`,
+                },
+              ],
+              containerClass: 'embedVideo-container',
+              iframeId: false,
+            },
+          },
           'gatsby-remark-relative-images',
           {
             resolve: 'gatsby-remark-katex',
