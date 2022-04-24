@@ -17,3 +17,20 @@ My goal in this project was to create a short vignette of our trip to Jordan in 
 
 ## Selecting the photos
 
+- Swimming in the dead sea
+- Camel ride in Wadi Rum
+- Petra
+- Dana nature reserve
+- Madaba
+- Jerash
+- Amman
+
+## Select the sound track
+
+Expect about 20 secs (3 sec / video). Chose epic trailer music from (Pixabay)[http://pixabay.com]
+
+## The Map
+
+Map generator from [http://maps.stamen.com], but ended up taking map from Google Maps
+
+
