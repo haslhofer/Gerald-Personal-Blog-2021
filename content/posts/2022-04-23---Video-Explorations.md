@@ -1,9 +1,9 @@
 ---
-title: Video Learnings / Vacation project
+title: Video Explorations
 date: "2022-04-23T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "Video learnings"
+slug: "Video explorations"
 category: "Reading"
 tags:
   - "Learning"
