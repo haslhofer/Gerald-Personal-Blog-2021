@@ -1,9 +1,9 @@
 ---
-title: Why would I spend more time on designing my house than designing my life?
+title: Why would I spend more time on designing my house than designing my life
 date: "2022-05-03T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "Why would I spend more time on designing my house than designing my life?"
+slug: "Why would I spend more time on designing my house than designing my life"
 category: "Introspection"
 tags:
   - "Learning"
