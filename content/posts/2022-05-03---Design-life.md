@@ -41,3 +41,6 @@ So when I had a career choice to make recently, I started with first principles 
 Judge me if you will - I clearly don't excel at these dimensions all the time. To the contrary. But having this stable True North in front of me helps me ground my decisions in something larger, more durable - it's an attempt to consciously design my life rather than letting circumstance direct my journey.
 
 I consider writing my own mission statement as some of the highest leveraged hours I spent in my life. I encourage you to try it, too.
+
+
+![Maintain energy](/media/babies.jpg)
