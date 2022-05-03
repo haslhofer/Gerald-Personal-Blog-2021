@@ -13,7 +13,11 @@ socialImage: "/media/image-2.jpg"
 
 Wow - Twins - Surprise! So some years ago my wife and I decided that it was the right time to design and build a cabin for our family of now 5. 
 
-We love the outdoors. Getting ready for an hour of cross-country skiing with three babies in diapers now required more logistics than traveling overseas for a month when we were just a couple. Having a place to stay close to the mountains would allow us to spend more time as a family doing things rather than driving to do things. We had a clear vision of what we were optimizing for and tradeoffs we were willing to make. We looked at more houses than I dare to remember to understand what felt right for us, avoiding mistakes others had made. We were at peace with the energy it would take to realize this vision. We paid handsomely for an architect. At the end it turned out to take 5 years, with pivots along the way that deserve another essay, but we persevered despite many setbacks.
+We love the outdoors. Getting ready for an hour of cross-country skiing with three babies in diapers now required more logistics than traveling overseas for a month when we were just a couple. 
+
+![Skiing with babies](/media/babies.jpg)
+
+Having a place to stay close to the mountains would allow us to spend more time as a family doing things rather than driving to do things. We had a clear vision of what we were optimizing for and tradeoffs we were willing to make. We looked at more houses than I dare to remember to understand what felt right for us, avoiding mistakes others had made. We were at peace with the energy it would take to realize this vision. We paid handsomely for an architect. At the end it turned out to take 5 years, with pivots along the way that deserve another essay, but we persevered despite many setbacks.
 
 The end result was something we were content with. It fulfilled our original vision because we understood our True North.
 
@@ -43,4 +47,3 @@ Judge me if you will - I clearly don't excel at these dimensions all the time. T
 I consider writing my own mission statement as some of the highest leveraged hours I spent in my life. I encourage you to try it, too.
 
 
-![Maintain energy](/media/babies.jpg)
