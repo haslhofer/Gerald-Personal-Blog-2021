@@ -15,7 +15,7 @@ Wow - Twins - Surprise! So some years ago my wife and I decided that it was the 
 
 We love the outdoors. Getting ready for an hour of cross-country skiing with three babies in diapers now required more logistics than traveling overseas for a month when we were just a couple. 
 
-![Skiing with babies](/media/babies.jpg)
+![Skiing with babies](/media/babies2.jpg)
 
 Having a place to stay close to the mountains would allow us to spend more time as a family doing things rather than driving to do things. We had a clear vision of what we were optimizing for and tradeoffs we were willing to make. We looked at more houses than I dare to remember to understand what felt right for us, avoiding mistakes others had made. We were at peace with the energy it would take to realize this vision. We paid handsomely for an architect. At the end it turned out to take 5 years, with pivots along the way that deserve another essay, but we persevered despite many setbacks.
 
