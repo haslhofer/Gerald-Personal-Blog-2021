@@ -27,7 +27,9 @@ Don't get me wrong - I was never the person to just stumble through life. I alwa
 
 But life is full of choices, small and large. I realized that unless my priorities are CLEAR, CONCISE and WRITTEN down, chances are high I'd start drifting. Just like when building a house, you could invest days in selecting the tile but compromise on the location when pushed to make a choice. Small bad choices will accumulate. And then you end up not liking the end result.
 
-My friend Priya encouraged me to write this essay because this story does have a happy ending. I decided to write down my personal mission statement in three succinct paragraphs, designing the high-level direction I'd attempt to compare my choices against. It took a few attempts to craft these, see if they rang true to what I deeply felt would be a rewarding life, and not what I thought others wanted me to be. I am predisposed to trying to please people so that was a hard thing for me personally. For many years now I sit down (usually around the holidays) and reflect on whether these priorities still fit, and how true my actions and choices are compared to them. Surprisingly, my mission statement has withstood the test of time. It goes like this:
+My friend Priya encouraged me to write this essay because, yes, this story does have a happy ending. 
+
+I decided to write down my personal mission statement in three succinct paragraphs. I designed the high-level direction I'd attempt to compare my choices against. It took a few attempts to craft these, see if they rang true to what I deeply felt would be a rewarding life, and not what I thought others wanted me to be. I am predisposed to trying to please people so that was a hard thing for me personally. Since then, for many years now, I sit down (usually around the holidays) and reflect on whether my True North priorities still fit, and how true my actions and choices are compared to them. Encouragingly, my mission statement has withstood the test of time. It goes like this:
 
 # My Mission Statement 
 
@@ -42,8 +44,7 @@ Create novel, meaningful products and forums as a risk-taking creator. Be a role
 
 So when I had a career choice to make recently, I started with first principles - is this new job an enabler for me to flourish as a creator? Will it allow me to take risks? Is it an outlet for my creative energy? When faced with time pressure, do I still create islands for reflection (like this essay)? Is my time spent with other people reflective of my desire to reaffirm my love for my children regularly?
 
-Judge me if you will - I clearly don't excel at these dimensions all the time. To the contrary. But having this stable True North in front of me helps me ground my decisions in something larger, more durable - it's an attempt to consciously design my life rather than letting circumstance direct my journey.
+Judge me if you will - I clearly don't excel at these dimensions all the time. To the contrary. But having this stable True North in front of me helps me ground my decisions in something larger, more durable - it's my attempt to consciously design my life rather than letting circumstance direct my journey.
 
-I consider writing my own mission statement as some of the highest leveraged hours I spent in my life. I encourage you to try it, too.
-
+I consider writing my own mission statement as some of the highest leveraged hours I spent in my life. I encourage you to try it, too. And stop worrying about the tiles.
 
