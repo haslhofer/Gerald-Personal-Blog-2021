@@ -3,7 +3,7 @@ title: My TRUE network is non-existent. Ooops. How I connected with reality and 
 date: "2022-05-06T23:46:37.121Z"
 template: "post"
 draft: false
-slug: ""
+slug: "My TRUE network is non-existent. Ooops. How I connected with reality and found a tribe."
 category: "Introspection"
 tags:
   - "Learning"
@@ -15,7 +15,7 @@ One rainy day in Seattle I took inventory of how large my network was within Mic
 
 My conclusion was easy - my MANAGER clearly didn't do their job to expand my scope! My MANAGER had a far broader reach into the organization, so obviously it was THEIR job to open doors and help me. In hindsight it's almost comical how delusional, disconnected from reality I was even though I had so much faith in my own intellectual prowess. It's not them. Surprise, it's ME!
 
-I knew that growing my impact was predicated on my ability to expand my network within and across the company. Left brain, check.
+I knew that growing my impact was predicated on my ability to expand my network within and across the company. Left brain, check.v
 But as an introvert it was hard for me to step out of my emotional comfort zone and ACTIVELY connect. Right brain, fail.
 
 The image in my mind ("I'm doing well, progressing fast") was challenged by the reality of hard facts - number of people I'd consider part of my network. I'm not talking about my contact list on LinkedIn or Facebook. You have rich interactions with members of your REAL network. You meet them, discuss things, share things, bond over what excites you, spend time together.
