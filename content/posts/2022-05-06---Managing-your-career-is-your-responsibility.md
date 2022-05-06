@@ -11,17 +11,17 @@ description: "When I realized that after many years at Microsoft that I didn't h
 socialImage: "/media/image-2.jpg"
 ---
 
-One rainy day in Seattle I took inventory of how large my network was within Microsoft after working there for many years. I came up almost empty. Oops.
+One rainy day in Seattle I took inventory of how large my network was within Microsoft after working there for many years. It came up virtually empty. Oops.
 
-My conclusion was easy - my boss clearly didn't do their job to expand my scope! My boss had a far broader reach into the organization, so obviously it was their job to open doors and help me. In hindsight it's almost comical how delusional, disconnected from reality I was even though I had so much faith in my own intellectual prowess. 
+My conclusion was easy - my MANAGER clearly didn't do their job to expand my scope! My MANAGER had a far broader reach into the organization, so obviously it was THEIR job to open doors and help me. In hindsight it's almost comical how delusional, disconnected from reality I was even though I had so much faith in my own intellectual prowess. It's not them. Surprise, it's ME!
 
 I knew that growing my impact was predicated on my ability to expand my network within and across the company. Left brain, check.
-But as an introvert it was hard for me to step out of my emotional comfort zone and actively connect. Right brain, fail.
+But as an introvert it was hard for me to step out of my emotional comfort zone and ACTIVELY connect. Right brain, fail.
 
-The image in my mind ("I'm doing well, progressing fast") was challenged by the reality of hard facts - number of people I'd consider part of my network. I'm not talking about my contact list on LinkedIn or Facebook. You have rich interactions with members of your real network. You meet them, discuss things, share things, bond over what excites you, spend time together.
+The image in my mind ("I'm doing well, progressing fast") was challenged by the reality of hard facts - number of people I'd consider part of my network. I'm not talking about my contact list on LinkedIn or Facebook. You have rich interactions with members of your REAL network. You meet them, discuss things, share things, bond over what excites you, spend time together.
 
-That day I made two big leaps - the first one connecting with reality. The second one me reaching out to a friendly, well-connected person in Microsoft with a simple request: can you introduce me to like-minded people in Microsoft who love innovation and push the envelope. Everything changed at that point - I got over my social passivity and started to meet some of what I personally consider the brightest minds in tech - many of them on the same campus, in walking distance! Slowly, I got invited to conferences where those people meet. I started getting an outlet for my crazier ideas. 
+That day I made two big leaps - the first one connecting with a harsh reality. The second one me reaching out to a friendly, well-connected person in Microsoft with a simple request: can you please introduce me to like-minded people in Microsoft who love innovation and 'push the envelope'. Everything changed at that point - I got over my social passivity and started to meet what I personally consider some the brightest minds in tech - many of them on the same campus, in walking distance! Slowly, I got invited to conferences where those people meet. I started getting an outlet for my crazier ideas. 
 
 ![The tribe](/media/conference.jpg)
 
-Tell me at least one area where you are disconnected from reality. I know you'll surprise us both!
+What's your TRUE network like?
