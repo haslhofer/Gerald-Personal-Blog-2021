@@ -1,5 +1,5 @@
 ---
-title: My true network is non-existent. Ooops. How I connected with reality and found a tribe. 
+title: My TRUE network is non-existent. Ooops. How I connected with reality and found a tribe. 
 date: "2022-05-06T23:46:37.121Z"
 template: "post"
 draft: false
