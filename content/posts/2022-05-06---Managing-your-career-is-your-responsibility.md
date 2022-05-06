@@ -22,4 +22,6 @@ The image in my mind ("I'm doing well, progressing fast") was challenged by the 
 
 That day I made two big leaps - the first one connecting with reality. The second one me reaching out to a friendly, well-connected person in Microsoft with a simple request: can you introduce me to like-minded people in Microsoft who love innovation and push the envelope. Everything changed at that point - I got over my social passivity and started to meet some of what I personally consider the brightest minds in tech - many of them on the same campus, in walking distance! Slowly, I got invited to conferences where those people meet. I started getting an outlet for my crazier ideas. 
 
+![The tribe](/media/conference.jpg)
+
 Tell me at least one area where you are disconnected from reality. I know you'll surprise us both!
