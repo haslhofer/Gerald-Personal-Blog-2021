@@ -16,6 +16,8 @@ At work I championed a forum I called "My Story". The concept is simple - I offe
 
 The only parameters were a fixed 25 minutes of time, no questions from the audience. Think "TED talk about your personal journey". No fancy slides. Just story telling about roads taken, decisions made, succeesses encountered, failures endured, and learnings achieved over a life time. 
 
+![Connecting](/media/climb.jpg)
+
 For most, it took a lot of courage to be vulnerable. I can attest to life's journey not always being a straight path from success to success. It's hard to admit in front of audience that you are human. Talking about one's detours takes courage. 
 
 The result, though, was stunning - close to 50 team members, from new hires to the most senior people, across the world, demonstrated that while our individual experiences were quite different (growing up in Austria, Romania, India or China has its own unique challenges), there were these unifying themes of trying to better one's life, creating community and belonging even though our jobs required mobility, the trials and delights of having family and children, the curve balls life throws you, and many more. It showed me the things that make us humans as opposed to mere resources aligned for corporate outcomes.
