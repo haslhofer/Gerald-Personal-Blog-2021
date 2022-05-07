@@ -16,7 +16,7 @@ At work I championed a forum I called "My Story". The concept is simple - I offe
 
 The only parameters were a fixed 25 minutes of time, no questions from the audience. Think "TED talk about your personal journey". No fancy slides. Just story telling about roads taken, decisions made, succeesses encountered, failures endured, and learnings achieved over a life time. 
 
-![Connecting](/media/climb.jpg)
+![Connecting](/media/climb2.jpeg)
 
 For most, it took a lot of courage to be vulnerable. I can attest to life's journey not always being a straight path from success to success. It's hard to admit in front of audience that you are human. Talking about one's detours takes courage. 
 
