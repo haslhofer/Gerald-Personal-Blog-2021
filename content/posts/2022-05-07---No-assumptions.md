@@ -2,7 +2,7 @@
 title: We are Humans not Resources. How do we create connectedness beyond mere connectivity?
 date: "2022-05-08T23:46:37.121Z"
 template: "post"
-draft: true
+draft: false
 slug: "Humans-vs-resources"
 category: "Introspection"
 tags:
