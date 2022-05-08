@@ -11,6 +11,15 @@ description: "Some lessons can only be learned from practice, failure, and refle
 socialImage: "/media/image-2.jpg"
 ---
 
+Insights that deserve an article:
+- First internship - hard work vs. building block
+- Do you have the right framework in mind (e.g. life goals)
+- Back to the office. What is the right setup for working at home?
+- What are the physics of the problem, as opposed the perception of the physics?
+- Overestimating the cost of failure
+- The value of your network and the need to build it
+- Managing my career is 100% my own responsibility
+
 # Leadership
 
 *Some of these come from conversations with Ales Holecek*
