@@ -1,6 +1,6 @@
 ---
 title: Things you don't like don't help you find things you do like. It's a life lesson I learned as a 16 year old. 
-date: "2022-05-08T23:46:37.121Z"
+date: "2022-05-09T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "Life-is-too-short"
