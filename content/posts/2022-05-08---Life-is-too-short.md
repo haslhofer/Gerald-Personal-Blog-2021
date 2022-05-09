@@ -7,7 +7,7 @@ slug: "Life-is-too-short"
 category: "Introspection"
 tags:
   - "Learning"
-description: "TBD"
+description: "I remind myself that knowing what you don't like does not lead you to knowing what you like, because there's an infinite number of things you don't like."
 socialImage: "/media/image-2.jpg"
 ---
 Things you don't like don't help you find things you do like. It's a life lesson I learned as a 16 year old. 
