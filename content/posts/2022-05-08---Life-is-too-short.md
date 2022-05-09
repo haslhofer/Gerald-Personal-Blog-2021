@@ -22,3 +22,4 @@ Working my hard manual labor job would have offered me no further signal where t
 
 I see life as an orchestration of periods of exploration followed by periods of reaping the rewards of having found a good place, rinse-repeat. So I try to focus on things that either give me POSITIVE new signal (explore) or rewards (exploit). If I get neither, I'm likely wasting my energy, being just lazy.
 
+![Labor](/media/gerald.jpg)
