@@ -1,9 +1,9 @@
 ---
-title: Video Explorations
+title: Video Learnings / Vacation project
 date: "2022-04-23T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "Video explorations"
+slug: "Video learnings"
 category: "Reading"
 tags:
   - "Learning"
@@ -33,3 +33,4 @@ Expect about 20 secs (3 sec / video). Chose epic trailer music from (Pixabay)[ht
 
 Map generator from [http://maps.stamen.com], but ended up taking map from Google Maps
 `video: https://www.youtube.com/watch?v=S7aND-uAQ3U&list=PLSKz-aE7Rw0GWEHcKhS8D6kOvMdsTRJ4A&index=19`
+
