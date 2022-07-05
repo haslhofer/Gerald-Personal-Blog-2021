@@ -1,9 +1,9 @@
 ---
-title: No shortcuts
+title: No Shortcuts
 date: "2022-06-27T12:46:37.121Z"
 template: "post"
 draft: false
-slug: "Doing the right thing is rarely easy, but always worth it."
+slug: "Doing-the-right-thing-is-rarely-easy"
 category: "Introspection"
 tags:
   - "Learning"
