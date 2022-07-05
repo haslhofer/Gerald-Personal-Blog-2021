@@ -7,7 +7,7 @@ slug: "Doing the right thing is rarely easy, but always worth it."
 category: "Introspection"
 tags:
   - "Learning"
-description: ""Taking the shortcut is cheating" my 9-year old son Luca vehemently postulated while we were having dinner at the Refugio Bruto Carestiato on our 110km long-distance hike through the Italian Dolomites."
+description: "'Taking the shortcut is cheating' my 9-year old son Luca vehemently postulated while we were having dinner at the Refugio Bruto Carestiato on our 110km long-distance hike through the Italian Dolomites."
 socialImage: "/media/hike.jpg"
 ---
 
