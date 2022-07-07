@@ -1,5 +1,5 @@
 ---
-title: The Power of your toolkit
+title: The Power of Your Toolkit
 date: "2022-07-07T12:46:37.121Z"
 template: "post"
 draft: false
