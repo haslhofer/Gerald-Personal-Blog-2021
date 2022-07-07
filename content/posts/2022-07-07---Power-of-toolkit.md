@@ -17,7 +17,7 @@ His golden rule "a job done right needs the right tools" stuck with me. His coll
 
 While I don't own a 'Werkstatt' (shop) with physical tools as he did, I learned from his passion and tried to apply it in a different realm. I have over the years compiled an eclectic collection of 'frameworks' which I consider my thinking tools. My goal every year is to add at least one software tool with a decent level of mastery to my kit - recently I got enamored with the power of video editing tools and have even used a green screen to produce short videos for my team; during my current vacation I've been learning an open-source 3d modeling tool called Blender; and gaining a basic level of Python programming skills has opened the world of AI experiments for me. 
 
-I believe consciously, consistently investing energy and time in your toolkit is one of the most powerful professional enablers I can point to. 
+Consciously, consistently investing energy and time in your toolkit is one of the most powerful professional enablers I can point to. 
 
 ![Toolkit](/media/toolkit.jpg)
 
