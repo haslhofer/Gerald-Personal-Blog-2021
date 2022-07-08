@@ -1,5 +1,5 @@
 ---
-title: My Reading Diet. Healthy brain food and healthy habits.
+title: My Reading Diet. Healthy Brain Food and Healthy Habits.
 date: "2022-07-08T12:46:37.121Z"
 template: "post"
 draft: false
