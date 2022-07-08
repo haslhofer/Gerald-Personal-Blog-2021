@@ -22,3 +22,4 @@ A little side story: a while ago a few like-minded friends at Microsoft (across 
 While the first days of any diet are painful, my mind now feels reinvigorated, lighter, more curious, more inspired by the diversity of thinking that has become so accessible with today's technology if used the right way.
 
 ![Reading diet](/media/diet.jpg)
+[Image produced with DALL-E mini.]
