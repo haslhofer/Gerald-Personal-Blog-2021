@@ -7,7 +7,7 @@ slug: "Always-investing-for-the-long-term"
 category: "Introspection"
 tags:
   - "Learning"
-description: "" 
+description: "Standing in the parking lot with three babies in diapers, we had a decision to make: turn around in the face of unexpected snow, or persevere in the face of adversity." 
 socialImage: "/media/pull.jpg"
 ---
 
