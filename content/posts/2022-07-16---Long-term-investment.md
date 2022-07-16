@@ -1,19 +1,19 @@
 ---
-title: Investing for the long-term
+title: Always Investing for the Long-Term
 date: "2022-07-16T12:46:37.121Z"
 template: "post"
 draft: false
-slug: "Investing-for-the-long-term"
+slug: "Always-investing-for-the-long-term"
 category: "Introspection"
 tags:
   - "Learning"
 description: "" 
-socialImage: "/media/hike.jpg"
+socialImage: "/media/pull.jpg"
 ---
 
 Standing in the parking lot with three babies in diapers, we had a decision to make: turn around in the face of unexpected snow, or persevere in the face of adversity. We had hoped for a fun hike up in the Cascades, and spent all morning packing gear and supplies - a Chariot double 'stroller' with large wheels and hiking attachment for our new-born twins (for me to pull pioneer style), a heavy backpack for my wife Rachel to carry Sophia,the older baby, pacifiers, milk, all sorts of supplies essential for babies. 
 
-
+![Pull](/media/pull.jpg)
 `video: https://youtu.be/iuMxI_akQw0`
 
 We reminded ourselves that it's better to be 100% consistent with our values than 99% of time. 
