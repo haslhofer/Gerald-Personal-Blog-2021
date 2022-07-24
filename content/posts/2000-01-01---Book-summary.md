@@ -11,7 +11,7 @@ description: "Key points of books I read"
 socialImage: "/media/image-2.jpg"
 ---
 
-# Pfeffer: 7 rules of Power
+# Pfeffer: 7 Rules of Power
 
 People who have it deny it. People use it secretly. People who want it want it to be appear that they don't
 
