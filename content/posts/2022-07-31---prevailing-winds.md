@@ -18,3 +18,5 @@ I could barely hold onto the sail as the wind picked up on Lake Cle Elum. I felt
 Every company, every team has their prevailing winds, and I've seen those who just pulled up their sail and let themselves drift right where the wind was taking them struggle. I've seen colleagues fail when going directly against the wind (the 'no-go' zone). But I've seen those succeed who dared to surf at an angle, who accelerated, determined their own direction and harnessed the power of the wind, rather the being determined by it. 
 
 Ultimately the wind's power exceeded my skill level and I plunged into the water, head first. But life lived at its fullest requires me to pull myself back onto the board, forget about the calluses on my hands, and pull the sail out of the water, into the wind, and start right over.
+
+![Surf](/media/surf.jpg)
