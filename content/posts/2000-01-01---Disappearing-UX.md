@@ -12,7 +12,7 @@ Parameterizing a thing that works and doing explore exploit on variations, vs. a
 
 Understanding generative models
 
-# Language
+## Language
 - GPT-Neo
 - GPT-J
 - GPT Neox 20B parameters
@@ -20,7 +20,7 @@ Understanding generative models
 Panopticum
 - https://github.com/microsoft/GLIP
 
-# Images
+## Images
 - Run DALL-E mini on PC
 
 Compare what it took to play a video in 2000 and TikTok today
@@ -35,7 +35,7 @@ Autopoiesis
 
 https://criticallegalthinking.com/2022/01/10/niklas-luhmann-what-is-autopoiesis/
 
-Prototype ideas
+# Prototype ideas
 - custom server in Unity (see c# samples for that)
 
 Unity Blender and c#
