@@ -7,6 +7,8 @@ The content is the description
 Parameterizing a thing that works and doing explore exploit on variations, vs. always creating something new
 
 10x faster - the next frontier, 1s clips - but how does one steer (left / right, observe?)
+- observe visual cues such as eye movement (nice prototype)
+
 
 Understanding generative models
 
@@ -33,6 +35,8 @@ Autopoiesis
 
 https://criticallegalthinking.com/2022/01/10/niklas-luhmann-what-is-autopoiesis/
 
+Prototype ideas
+- custom server in Unity (see c# samples for that)
 
 Unity Blender and c#
 https://www.youtube.com/watch?v=TufD9YJ62Oo
