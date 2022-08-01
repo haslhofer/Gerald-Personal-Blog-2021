@@ -9,12 +9,17 @@ Parameterizing a thing that works and doing explore exploit on variations, vs. a
 10x faster - the next frontier, 1s clips - but how does one steer (left / right, observe?)
 
 Understanding generative models
+
+# Language
 - GPT-Neo
 - GPT-J
 - GPT Neox 20B parameters
 - https://huggingface.co/EleutherAI/gpt-neox-20b?text=My+name+is+Julien+and+I+like+to
 Panopticum
 - https://github.com/microsoft/GLIP
+
+# Images
+- Run DALL-E mini on PC
 
 Compare what it took to play a video in 2000 and TikTok today
 Disappearing user interface - from click / drag / type to swipe
