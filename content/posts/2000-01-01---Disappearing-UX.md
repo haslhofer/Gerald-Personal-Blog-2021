@@ -41,5 +41,9 @@ https://criticallegalthinking.com/2022/01/10/niklas-luhmann-what-is-autopoiesis/
 # Prototype ideas
 - custom server in Unity (see c# samples for that)
 
+
+Generate live video - then feed back with face reco to change content
+https://www.youtube.com/watch?v=MPhtI6b7MHc
+
 Unity Blender and c#
 https://www.youtube.com/watch?v=TufD9YJ62Oo
