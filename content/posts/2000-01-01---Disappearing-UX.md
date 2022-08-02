@@ -6,6 +6,9 @@ The content is the description
 
 Parameterizing a thing that works and doing explore exploit on variations, vs. always creating something new
 
+It's happening - novels are variations of specific ideas
+https://restofworld.org/2022/china-romance-novels/
+
 10x faster - the next frontier, 1s clips - but how does one steer (left / right, observe?)
 https://twitter.com/andrewchen/status/1526957087439237121 - heightend attention, fast to slow
 
