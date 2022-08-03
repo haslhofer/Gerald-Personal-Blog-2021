@@ -8,6 +8,7 @@ Parameterizing a thing that works and doing explore exploit on variations, vs. a
 
 It's happening - novels are variations of specific ideas
 https://restofworld.org/2022/china-romance-novels/
+https://www.economist.com/1843/2022/07/28/how-magicians-won-facebook
 
 10x faster - the next frontier, 1s clips - but how does one steer (left / right, observe?)
 https://twitter.com/andrewchen/status/1526957087439237121 - heightend attention, fast to slow
