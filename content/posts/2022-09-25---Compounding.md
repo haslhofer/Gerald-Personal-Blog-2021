@@ -23,4 +23,6 @@ This ONE opportunity of spending material time abroad as a kid had a drastic com
 
 In previous posts I've focused on the importance of learning and building skills. But I've learned that if I stay "local" in the most general sense, my impact might be an order of magnitude smaller than by stepping outside of my comfort zone and stepping into a new opportunity space. SKills require opportunity to have impact. Opportunity without skills will just be a lost opportunity. And the further I step outside my comfort zone, the larger the opportunity will ultimately be.
 
+![Door](/media/door.jpg)
+
 These four weeks abroad as a kid literally opened so many doors and drastically changed the course of my adult life - but it required me to step "outside" and overcome the fear of the unknown.
