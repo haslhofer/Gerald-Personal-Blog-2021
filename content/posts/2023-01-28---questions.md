@@ -1,4 +1,3 @@
-
 ---
 title: Two simple questions
 date: "2023-01-28T12:46:37.121Z"
