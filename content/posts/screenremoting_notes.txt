@@ -1,1 +1,4 @@
+Ensure Twilio account is active
 
+Deploy Twilio backend
+Tutorial: https://github.com/twilio/twilio-video-app-android
