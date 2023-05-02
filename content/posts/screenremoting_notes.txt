@@ -1,4 +1,28 @@
 Ensure Twilio account is active
+Install Twilio CLI
 
 Deploy Twilio backend
+
+Web client
+https://github.com/twilio/twilio-video-app-react
+
+deploying app... done
+  Web App URL: https://video-app-9392-1684-dev.twil.io?passcode=30064393921684
+  Passcode: 300 643 9392 1684
+  Expires: Tue May 09 2023 14:46:37 GMT-0700
+  Room Type: group
+  Edit your token server at: https://www.twilio.com/console/functions/editor/ZS7bd082675cb90f9e4c5184e0d40fb0b5/environment/ZE61198879b1d0893d1ac8520de2e00bc8/function/ZHb77f10026d2db1f99d03a1f7f47ac993
+
+
 Tutorial: https://github.com/twilio/twilio-video-app-android
+- login & deploy Twilio serverless backend
+
+
+  Passcode: 709 077 1663 7909
+  Expires: Tue May 09 2023 13:51:50 GMT-0700
+  Room Type: group
+  Edit your token server at: https://www.twilio.com/console/functions/editor/ZSe8f4308e5284d44b2eb5ee9cbcf5dc8f/environment/ZE413c2e7567849d744c565632e5830321/function/ZH418a107145c286a89585919a41aec812
+
+Deploy capture app from Github 
+https://github.com/haslhofer/webstreamcapture
+
