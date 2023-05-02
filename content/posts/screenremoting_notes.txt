@@ -26,3 +26,5 @@ Tutorial: https://github.com/twilio/twilio-video-app-android
 Deploy capture app from Github 
 https://github.com/haslhofer/webstreamcapture
 
+Android app
+https://github.com/haslhofer/webstreamcapture_android
